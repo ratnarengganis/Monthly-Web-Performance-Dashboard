@@ -16,6 +16,9 @@ empowers stakeholders to gauge user engagement and website popularity effectivel
 <h2>Data Source:</h2>
 <p>The data used in this dashboard is derived from Looker.</p>
 
+<h2>Tools:</h2>
+<p>Looker Studio.</p>
+
 <h2>Metrics:</h2>
 <ol>
   <li>New Users: The total number of new users who visited the website during the specified time period. This metric provides insights into the website's ability to attract and engage new visitors.</li>
@@ -37,7 +40,7 @@ empowers stakeholders to gauge user engagement and website popularity effectivel
 
 Here is my dashboard displaying the monthly web performance metrics. It provides a comprehensive view of key indicators, allowing stakeholders to assess website performance, user behavior, and make data-driven decisions for improvements.
 
-![Dashboard Screenshot](hw_dashboard.png)
+![dashboard](dashboard.png)
 
 
 
@@ -59,6 +62,6 @@ The dashboard presents website performance data for June 2023, displaying combin
 
 Overall, these findings provide valuable insights for decision-making and optimization strategies. Further analysis is recommended to understand the factors influencing the declining metrics and to identify areas for improvement to enhance user engagement and goal conversion.
 
-### Tools: Looker Studio
+
 
 
