@@ -37,7 +37,7 @@ empowers stakeholders to gauge user engagement and website popularity effectivel
 
 Here is my dashboard displaying the monthly web performance metrics. It provides a comprehensive view of key indicators, allowing stakeholders to assess website performance, user behavior, and make data-driven decisions for improvements.
 
-![Dashboard Screenshot]([Website Monthly Performance Dashboard](https://github.com/ratnarengganis/Monthly-Web-Performance-Dashboard/blob/main/Website%20Monthly%20Performance%20Dashboard.jpg)
+![Dashboard Screenshot](relative/path/to/Website%20Monthly%20Performance%20Dashboard.jpg)
 
 
 
