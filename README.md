@@ -36,7 +36,7 @@ empowers stakeholders to gauge user engagement and website popularity effectivel
   <li>Top Pages and Channels: This section highlights the most visited pages and popular channels that drive traffic to the website. Identifying top-performing pages and channels helps optimize content and marketing efforts for improved user engagement and conversions.</li>
 </ol>
 
-### Website Monthly Performance Dashboard
+## Website Monthly Performance Dashboard
 
 Here is my dashboard displaying the monthly web performance metrics. It provides a comprehensive view of key indicators, allowing stakeholders to assess website performance, user behavior, and make data-driven decisions for improvements.
 
@@ -46,7 +46,7 @@ Here is my dashboard displaying the monthly web performance metrics. It provides
 
 Link: [View Dashboard on Looker](https://lookerstudio.google.com/reporting/02415ad3-ab66-4346-863f-fa09d69675d/b/page/WPqPD?s=vaqrrAT3HI8)
 
-### Summary Findings
+## Summary Findings
 
 The dashboard presents website performance data for June 2023, displaying combined results from mobile, desktop, and tablet devices. Users have the flexibility to filter data based on specific devices and months as needed.
 
