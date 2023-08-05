@@ -1,6 +1,6 @@
 # Monthly-Web-Performance-Dashboard
 Monthly Web Performance Dashboard: A data visualization project to track and monitor web performance metrics on a monthly basis. Gain valuable insights into website performance trends with this interactive dashboard.
-<h1>Overview:</h1>
+<h2>Overview:</h2>
 <p>The dashboard I designed and developed provides a comprehensive view of monthly
 website performance, featuring key indicators crucial for monitoring and evaluation
 purposes. It offers valuable insights into various aspects of user engagement and
@@ -37,7 +37,7 @@ empowers stakeholders to gauge user engagement and website popularity effectivel
 
 Here is my dashboard displaying the monthly web performance metrics. It provides a comprehensive view of key indicators, allowing stakeholders to assess website performance, user behavior, and make data-driven decisions for improvements.
 
-![Dashboard Screenshot](Website Monthly Performance Dashboard.jpg)
+![Dashboard Screenshot]([Website Monthly Performance Dashboard](https://github.com/ratnarengganis/Monthly-Web-Performance-Dashboard/blob/main/Website%20Monthly%20Performance%20Dashboard.jpg)
 
 
 
